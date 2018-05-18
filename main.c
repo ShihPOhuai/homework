@@ -5,10 +5,10 @@
 
 int main() 
 {
-  int i ,sum;
-  for(i=1;i<11;i++)
+  int  start,sum;
+  for(start=1;start<11;start++)
   {
-  	sum=sum+i;
+  	sum=sum+start;
   }	
 	  printf("1+¨ì10= %d",sum);
 	return 0;
